@@ -1,0 +1,401 @@
+﻿Id,DisplayLabel,SubType,OsType,OsName,AssetModel,AssetModel.DisplayLabel,VirtualDevice,Environment,PhaseId
+12008,aws dynamodb 2,Server,Windows,Windows,11362,AWS DynamoDB,null,Dev,pInUse
+11930,amazon ec2 vm1,Server,Windows,Windows,11339,AWS EC2,null,Dev,pInUse
+11949,ser666ms006,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11999,ser555ms001,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11986,ser555ms003,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11871,ser555ms007,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11966,ser555ms002,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11865,ser678proxy02,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11898,ser555ms005,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11913,ser555ms006,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11876,mxpool001,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11996,ser555ms008,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11848,ser123ms008,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11945,ser245ms005,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+12003,ser123ws02,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11843,ser123ms007,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11861,ser245ms008,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11941,ser666ms005,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11892,ser666ms001,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11968,ser123ms002,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11868,ser245ms002,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11947,ser555ms004,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11911,ser666ms003,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11885,ser123ms004,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11962,ser245ms003,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11971,mxpool002,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11907,ser245ms007,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11931,ser245ms004,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11870,ser666ms008,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11950,ser666ms007,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+12012,ser666ms002,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11887,ser666ms004,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11939,ser123ms006,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11888,ser123ws01,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11936,ser678proxy01,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11901,ser123ms003,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11944,ser123ms005,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11884,ser245ms006,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11933,ser245ms001,Desktop,Windows,Windows,11345,DELL PowerEdge,null,Production,pInUse
+11782,serv23sd157,Laptop,Windows,Windows,11409,HP ProLiant MicroServer,null,Production,pInUse
+11766,serv22ny043,Laptop,Windows,Windows,11409,HP ProLiant MicroServer,null,Production,pInUse
+11800,serv23sd117,Laptop,Windows,Windows,11409,HP ProLiant MicroServer,null,Production,pInUse
+11762,serv02sd063,Laptop,Windows,Windows,11409,HP ProLiant MicroServer,null,Production,pInUse
+11786,serv23sd122,Laptop,Windows,Windows,11409,HP ProLiant MicroServer,null,Production,pInUse
+11814,serv23sd162,Laptop,Windows,Windows,11409,HP ProLiant MicroServer,null,Production,pInUse
+11775,serv02sd039,Laptop,Windows,Windows,11338,HP ProLiant Moonshot,null,Staging,pInUse
+11768,serv26sd051,Laptop,Windows,Windows,11338,HP ProLiant Moonshot,null,Production,pInUse
+11792,serv24sd024,Laptop,Windows,Windows,11338,HP ProLiant Moonshot,null,Production,pInUse
+11802,serv18sd059,Laptop,Windows,Windows,11338,HP ProLiant Moonshot,null,Staging,pInUse
+11779,serv23sd040,Laptop,Windows,Windows,11338,HP ProLiant Moonshot,null,Staging,pInUse
+11791,serv24ny022,Laptop,Windows,Windows,11338,HP ProLiant Moonshot,null,Production,pInUse
+11807,serv02sd033,Laptop,Windows,Windows,11338,HP ProLiant Moonshot,null,Staging,pInUse
+11785,db08ny04,Laptop,Windows,Windows,11338,HP ProLiant Moonshot,null,Production,pInUse
+11778,db08sd06,Laptop,Windows,Windows,11338,HP ProLiant Moonshot,null,Production,pInUse
+11771,serv18sd058,Laptop,Windows,Windows,11338,HP ProLiant Moonshot,null,Staging,pInUse
+11777,db03ny82,Laptop,Windows,Windows,11338,HP ProLiant Moonshot,null,Production,pInUse
+11780,serv23sd049,Laptop,Windows,Windows,11338,HP ProLiant Moonshot,null,Staging,pInUse
+11776,serv26ny050,Laptop,Windows,Windows,11338,HP ProLiant Moonshot,null,Production,pInUse
+11841,lync09a345,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11932,serv23dpny0x02,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11826,sharep6c223,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11900,sharep1f765,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11821,lync0a2524,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11809,lync0a2532,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11801,sharep1f755,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11895,sharep6c222,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11828,sharep6c232,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11825,sharep6c229,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11851,sharep1f767,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11820,sharep6c225,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11784,lync09a340,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11982,serv23dpny0x04,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11839,sharep1f760,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11836,sharep1f756,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11937,hpsvr07112,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,null,pInStock
+11816,lync0a2528,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11858,serv35cbny0x01,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11978,sharep1f759,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11921,lync0a2527,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11833,lync0a2535,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11860,sharep6c238,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11845,sharep1f768,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11790,lync09a344,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11965,serv23dpuk0x01,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+12006,sharep1f771,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11855,sharep6c221,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11830,sharep1f764,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11915,sharep6c243,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11891,sharep1f749,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11905,lync0a2533,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11844,sharep6c233,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11787,lync09a342,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11974,serv35cbny0x02,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11882,serv35cbuk0x01,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11889,sharep6c228,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11863,serv35cbny0x03,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11846,sharep6c242,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11838,sharep6c241,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11827,sharep1f754,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11824,sharep6c226,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11810,sharep1f758,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11842,sharep6c240,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11811,lync0a2522,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11866,serv23dpny0x01,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11812,lync0a2523,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11899,serv35cbuk0x02,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11805,lync09a339,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11956,hpsvr07114,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,null,pInStock
+11918,lync0a2526,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11878,sharep6c230,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11883,serv23dpuk0x02,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11803,lync09a346,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11873,sharep6c245,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11794,lync09a338,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11804,lync0a2521,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11788,lync09a343,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11951,sharep1f763,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11881,sharep1f762,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11823,lync0a2529,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11927,sharep6c244,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11893,sharep1f772,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11914,sharep1f766,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11917,serv23dpuk0x04,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11894,lync0a2531,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11834,sharep1f750,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11857,lync0a2536,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11808,lync09a337,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11822,sharep1f761,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11829,lync09a333,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11840,lync09a341,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11847,sharep1f748,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11896,sharep6c224,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11886,hpsvr07110,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,null,pInStock
+11849,sharep6c236,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11957,serv35cbuk0x04,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11867,lync0a2534,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11831,sharep6c227,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11940,hpsvr07111,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,null,pInStock
+11916,sharep1f751,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11818,lync09a334,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11854,sharep1f752,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11967,serv35cbny0x04,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11795,lync09a336,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11813,lync09a347,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11879,sharep6c231,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+12011,sharep6c234,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11955,sharep6c237,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11783,lync09a335,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11943,serv23dpuk0x03,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11837,sharep1f769,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11815,sharep1f753,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11862,sharep6c235,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11856,serv35cbuk0x03,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11806,lync0a2530,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11926,sharep1f757,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11872,lync0a2525,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11922,hpsvr07113,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,null,pInStock
+11864,sharep6c239,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11853,serv23dpny0x03,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11850,lync09a332,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11906,sharep1f770,Laptop,Windows,Windows,11352,Integrity BL860c i2 Server Blade,null,Production,pInUse
+11769,serv18sd019,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11960,serv63emead001,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11877,serv63usad001,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11835,db02ny150,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11859,serv12cloud3rd02,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11997,serv49ipuk002,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11793,serv23sd027,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11935,serv63usad003,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11796,serv02sd156,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11897,serv49ipny001,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11910,serv49ipny002,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11880,serv63emead003,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11763,serv23sd090,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11772,db02ny151,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11774,serv02sd115,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11992,serv49ipuk001,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11799,serv02sd015,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11869,(demo) ser123ms001,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11773,serv02sd016,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11764,serv18sd018,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11798,db02ny155,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11875,serv63usad005,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11817,serv02sd116,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11959,serv63usad006,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11852,serv63usad004,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11990,serv63emead002,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11874,serv63emead006,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+12001,serv63usad002,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+12010,serv63emead004,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11991,serv63emead005,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11789,serv02sd155,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11770,serv23sd029,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11765,serv02sd059,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11767,serv23sd089,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11781,db02ny154,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+11832,db02ny149,Laptop,Windows,Windows,11346,ProLiant ML10 Server,null,Production,pInUse
+18428,shc-oo-win2019-pf02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18562,shc-cms-win2016-pf01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18426,shc-itom-selesx02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18467,shc-itom-exchangesrv01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18421,pcoe-sam-win2016-dev02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18558,shc-cgro-win2016-dev11,Laptop,Windows,Windows,null,null,null,null,pInUse
+18418,shc-oo-win2016-dev01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18779,obadb,Laptop,Windows,Windows,null,null,null,null,pInUse
+18774,obafe1,Laptop,Windows,Windows,null,null,null,null,pInUse
+18784,obafe2,Laptop,Windows,Windows,null,null,null,null,pInUse
+18808,obaapp1,Laptop,Windows,Windows,null,null,null,null,pInUse
+18456,pccoe-sam-win2019-qa01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18461,shc-sm-win2016-dev01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18557,shc-oo-win2016-dev05,Laptop,Windows,Windows,null,null,null,null,pInUse
+18417,shc-dnd-win2019-dev10,Laptop,Windows,Windows,null,null,null,null,pInUse
+18556,shc-itom-skypesrv02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18416,pccoe-smax-win2016-dev03,Laptop,Windows,Windows,null,null,null,null,pInUse
+18555,shc-oo-win2016-dev10,Laptop,Windows,Windows,null,null,null,null,pInUse
+18415,pcoe-smax-win2019-probe03,Laptop,Windows,Windows,null,null,null,null,pInUse
+18554,shc-oo-win2019-qa02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18414,pcoe-cms-win2019-qa04,Laptop,Windows,Windows,null,null,null,null,pInUse
+18553,shwin2k16x64,Laptop,Windows,Windows,null,null,null,null,pInUse
+18413,shc-cgro-win2016-pf01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18485,shc-cgro-win2016-dev14,Laptop,Windows,Windows,null,null,null,null,pInUse
+18412,shc-sm-win2019-dev03,Laptop,Windows,Windows,null,null,null,null,pInUse
+18411,shc-sm-win2019-pf01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18551,shc-smax-bo-win2016-dev12,Laptop,Windows,Windows,null,null,null,null,pInUse
+18451,shc-smax-selesx04,Laptop,Windows,Windows,null,null,null,null,pInUse
+18410,shc-dnd-win2016-qa01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18550,shc-smax-bo-win2016-dev07,Laptop,Windows,Windows,null,null,null,null,pInUse
+18409,shc-itom-selesx01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18548,shc-oo-win2016-dev03,Laptop,Windows,Windows,null,null,null,null,pInUse
+18408,shc-cms-win2019-dev06,Laptop,Windows,Windows,null,null,null,null,pInUse
+18482,pccoe-smax-win2019-dev01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18547,shc-oo-win2016-dev14,Laptop,Windows,Windows,null,null,null,null,pInUse
+18407,shc-smax-win2012-dev04,Laptop,Windows,Windows,null,null,null,null,pInUse
+18780,srv479,Laptop,Windows,Windows,null,null,null,null,pInUse
+18445,shc-cms-win2016-qa01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18406,shc-itom-sharepointsrv02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18405,shc-sm-win2016-dev05,Laptop,Windows,Windows,null,null,null,null,pInUse
+18483,shc-itom-exchangesrv02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18545,shc-cgro-win2016-qa02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18427,shc-sm-win2016-dev06,Laptop,Windows,Windows,null,null,null,null,pInUse
+18404,shc-itom-pcoe-selesx01,Laptop,Windows,Windows,null,null,null,null,pInUse
+11958,amazon ec2 vm2,Laptop,Windows,Windows,null,null,null,null,pInStock
+18440,shc-dnd-win2016-dev02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18777,srv678,Laptop,Windows,Windows,null,null,null,null,pInUse
+18543,shc-cms-win2019-dev04,Laptop,Windows,Windows,null,null,null,null,pInUse
+18542,pccoe-sma-win2019-qa01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18402,shc-cgro-win2016-pf02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18776,srv475,Laptop,Windows,Windows,null,null,null,null,pInUse
+20318,anm920-na,Laptop,Windows,Windows,null,null,null,null,pInUse
+18459,shc-dnd-win2016-dev08,Laptop,Windows,Windows,null,null,null,null,pInUse
+18441,pcoe-smax-win2019-probe07,Laptop,Windows,Windows,null,null,null,null,pInUse
+18401,pcoe-smax-win2016-qa03,Laptop,Windows,Windows,null,null,null,null,pInUse
+18480,shc-sm-win2019-qa02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18541,shc-cgro-win2016-dev05,Laptop,Windows,Windows,null,null,null,null,pInUse
+18400,shc-smax-win2012r2-dev07,Laptop,Windows,Windows,null,null,null,null,pInUse
+18442,pcoe-cms-win2019-probe22,Laptop,Windows,Windows,null,null,null,null,pInUse
+18540,shc-smax-bo-win2016-pf02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18399,pcoe-smax-win2016-probe08,Laptop,Windows,Windows,null,null,null,null,pInUse
+18398,shc-dnd-win2019-dev07,Laptop,Windows,Windows,null,null,null,null,pInUse
+18477,shc-oo-win2019-dev04,Laptop,Windows,Windows,null,null,null,null,pInUse
+18538,shc-smax-win2012r2-pf01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18438,pcoe-smax-win2016-probe04,Laptop,Windows,Windows,null,null,null,null,pInUse
+20351,dfs3,Laptop,Windows,Windows,null,null,null,null,pInUse
+20315,ucmdb,Laptop,Windows,Windows,null,null,null,null,pInUse
+18484,shc-itom-pcoe-selesx02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18476,shc-dnd-win2016-dev11,Laptop,Windows,Windows,null,null,null,null,pInUse
+18397,shc-smax-selesx05,Laptop,Windows,Windows,null,null,null,null,pInUse
+18433,shc-smax-selesx01,Laptop,Windows,Windows,null,null,null,null,pInUse
+20313,discovery40.hpadvantageinc.com,Laptop,Windows,Windows,null,null,null,null,pInUse
+20356,edc1,Laptop,Windows,Windows,null,null,null,null,pInUse
+20308,omw,Laptop,Windows,Windows,null,null,null,null,pInUse
+20349,dc1,Laptop,Windows,Windows,null,null,null,null,pInUse
+18536,shc-smax-win2012r2-dev03,Laptop,Windows,Windows,null,null,null,null,pInUse
+18396,shc-dnd-win2019-dev09,Laptop,Windows,Windows,null,null,null,null,pInUse
+18395,shc-cms-win2016-dev02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18535,shc-cgro-win2012-dev08,Laptop,Windows,Windows,null,null,null,null,pInUse
+18429,shc-smax-bo-win2016-dev03,Laptop,Windows,Windows,null,null,null,null,pInUse
+18534,shc-smax-win2012-qa03,Laptop,Windows,Windows,null,null,null,null,pInUse
+18475,shc-oo-win2016-dev11,Laptop,Windows,Windows,null,null,null,null,pInUse
+18394,shc-sm-win2016-dev02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18478,shc-cgro-win2016-dev13,Laptop,Windows,Windows,null,null,null,null,pInUse
+18533,shc-dnd-win2019-dev06,Laptop,Windows,Windows,null,null,null,null,pInUse
+18393,shc-cms-win2016-qa02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18532,shc-dnd-win2019-dev04,Laptop,Windows,Windows,null,null,null,null,pInUse
+20367,spweb,Laptop,Windows,Windows,null,null,null,null,pInUse
+18473,shc-smax-bo-win2016-qa02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18471,shc-smax-win2012r2-dev02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18531,shc-smax-bo-win2016-pf01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18425,shc-sm-win2019-qa01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18391,pcoe-sam-win2019-probe21,Laptop,Windows,Windows,null,null,null,null,pInUse
+18530,shc-smax-win2012r2-dev06,Laptop,Windows,Windows,null,null,null,null,pInUse
+18389,shc-smax-win2012r2-dev09,Laptop,Windows,Windows,null,null,null,null,pInUse
+20364,dfs1,Laptop,Windows,Windows,null,null,null,null,pInUse
+18430,shc-smax-selesx03,Laptop,Windows,Windows,null,null,null,null,pInUse
+18529,pcoe-smax-win2016-probe20,Laptop,Windows,Windows,null,null,null,null,pInUse
+18423,shc-smax-win2012-dev11,Laptop,Windows,Windows,null,null,null,null,pInUse
+18419,shc-oo-win2016-pf01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18527,pcoe-sma-win2016-dev03,Laptop,Windows,Windows,null,null,null,null,pInUse
+18388,shc-smax-selesx02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18494,pcoe-cms-win2019-qa05,Laptop,Windows,Windows,null,null,null,null,pInUse
+18528,shc-smax-win2012r2-qa02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18386,shc-smax-win2012-dev12,Laptop,Windows,Windows,null,null,null,null,pInUse
+18526,shc-cgro-win2016-dev09,Laptop,Windows,Windows,null,null,null,null,pInUse
+18385,shc-smax-win2012-dev01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18439,shc-cms-win2016-pf02,Laptop,Windows,Windows,null,null,null,null,pInUse
+20357,jdc1,Laptop,Windows,Windows,null,null,null,null,pInUse
+18474,vmware-esx-0-vcenter02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18466,shc-itom-skypesrv01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18524,shc-cms-zergw125,Laptop,Windows,Windows,null,null,null,null,pInUse
+18384,shc-smax-bo-win2019-dev13,Laptop,Windows,Windows,null,null,null,null,pInUse
+18383,shc-cms-selesx02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18523,shc-oo-win2019-dev07,Laptop,Windows,Windows,null,null,null,null,pInUse
+18498,shc-dnd-win2019-dev01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18382,shc-dnd-win2016-pf01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18522,shc-cms-selesx01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18420,pcoe-sm-win2019-qa02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18381,shc-smax-bo-win2012-dev02,Laptop,Windows,Windows,null,null,null,null,pInUse
+20353,spsql,Laptop,Windows,Windows,null,null,null,null,pInUse
+18458,shc-dnd-win2016-qa02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18521,shc-smax-win2016-dev08,Laptop,Windows,Windows,null,null,null,null,pInUse
+18380,shc-oo-win2019-dev08,Laptop,Windows,Windows,null,null,null,null,pInUse
+20352,excas1,Laptop,Windows,Windows,null,null,null,null,pInUse
+18520,shc-itom-biztalksrv02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18379,shc-dnd-win2019-qa03,Laptop,Windows,Windows,null,null,null,null,pInUse
+20350,excas2,Laptop,Windows,Windows,null,null,null,null,pInUse
+18519,pcoe-smax-win2019-probe02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18462,shc-dnd-win2019-pf02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18378,shc-smax-selesx06,Laptop,Windows,Windows,null,null,null,null,pInUse
+11819,db89ny221,Laptop,Windows,Windows,null,null,null,Staging,pInUse
+18659,10.32.36.163,Laptop,Windows,Windows,null,null,null,null,pInUse
+18517,shc-smax-win2012r2-dev10,Laptop,Windows,Windows,null,null,null,null,pInUse
+20348,dc2,Laptop,Windows,Windows,null,null,null,null,pInUse
+11952,aws dynamodb 1,Laptop,Windows,Windows,null,null,null,null,pInStock
+18479,shc-cgro-win2016-dev07,Laptop,Windows,Windows,null,null,null,null,pInUse
+20359,exchmb1,Laptop,Windows,Windows,null,null,null,null,pInUse
+18516,shc-cgro-win2016-dev12,Laptop,Windows,Windows,null,null,null,null,pInUse
+18422,pcoe-smax-win2016-probe06,Laptop,Windows,Windows,null,null,null,null,pInUse
+18515,shc-sm-win2016-dev04,Laptop,Windows,Windows,null,null,null,null,pInUse
+18455,shc-smax-bo-win2016-dev01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18661,nom-ucmdb,Laptop,Windows,Windows,null,null,null,null,pInUse
+18448,vmwareesxserver-0,Laptop,Windows,Windows,null,null,null,null,pInUse
+12005,amazon ec2 vm5,Laptop,Windows,Windows,null,null,null,null,pInStock
+20344,adc1,Laptop,Windows,Windows,null,null,null,null,pInUse
+18513,shc-cgro-win2016-dev02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18512,shc-smax-bo-win2016-dev06,Laptop,Windows,Windows,null,null,null,null,pInUse
+18495,shc-dnd-win2012-dev03,Laptop,Windows,Windows,null,null,null,null,pInUse
+18511,vmware-esx-0-vcenter03,Laptop,Windows,Windows,null,null,null,null,pInUse
+20341,adc2,Laptop,Windows,Windows,null,null,null,null,pInUse
+18510,shc-cms-win2016-dev05,Laptop,Windows,Windows,null,null,null,null,pInUse
+18490,shc-smax-win2012r2-dev12,Laptop,Windows,Windows,null,null,null,null,pInUse
+20361,exchmb2,Laptop,Windows,Windows,null,null,null,null,pInUse
+18509,shc-cgro-win2016-pf03,Laptop,Windows,Windows,null,null,null,null,pInUse
+20339,dfs2,Laptop,Windows,Windows,null,null,null,null,pInUse
+18508,pcoe-smax-win2019-probe06,Laptop,Windows,Windows,null,null,null,null,pInUse
+20338,spsearch,Laptop,Windows,Windows,null,null,null,null,pInUse
+18506,pcoe-cms-win2019-dev05,Laptop,Windows,Windows,null,null,null,null,pInUse
+11963,aws rds 1,Laptop,Windows,Windows,null,null,null,null,pInStock
+18503,shc-cgro-win2016-dev04,Laptop,Windows,Windows,null,null,null,null,pInUse
+18496,shc-smax-bo-win2016-dev04,Laptop,Windows,Windows,null,null,null,null,pInUse
+18502,shc-cgro-win2016-qa03,Laptop,Windows,Windows,null,null,null,null,pInUse
+18500,shc-smax-win2012-pf02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18499,shc-itom-biztalksrv01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18424,shc-cgro-win2016-dev06,Laptop,Windows,Windows,null,null,null,null,pInUse
+11797,db89ny220,Laptop,Windows,Windows,null,null,null,Staging,pInUse
+18492,shc-oo-win2019-dev02,Laptop,Windows,Windows,null,null,null,null,pInUse
+18493,shc-smax-win2012-dev05,Laptop,Windows,Windows,null,null,null,null,pInUse
+11994,amazon ec2 vm4,Laptop,Windows,Windows,null,null,null,null,pInStock
+20324,appliance,Laptop,Windows,Windows,null,null,null,null,pInUse
+18434,shc-oo-win2016-dev09,Laptop,Windows,Windows,null,null,null,null,pInUse
+20320,exchdb1.ams.hpadvantageinc.com,Laptop,Windows,Windows,null,null,null,null,pInUse
+20319,windows-npcw5tj,Laptop,Windows,Windows,null,null,null,null,pInUse
+18488,shc-cgro-win2016-dev03,Laptop,Windows,Windows,null,null,null,null,pInUse
+18489,shc-cgro-win2016-dev01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18486,pcoe-cms-win2019-dev01,Laptop,Windows,Windows,null,null,null,null,pInUse
+11948,amazon ec2 vm3,Laptop,Windows,Windows,null,null,null,null,pInStock
+18561,shc-cms-win2012-dev01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18487,shc-cgro-win2016-dev10,Laptop,Windows,Windows,null,null,null,null,pInUse
+20314,am,Laptop,Windows,Windows,null,null,null,null,pInUse
+20310,plants,Laptop,Windows,Windows,null,null,null,null,pInUse
+20309,ucmdb,Laptop,Windows,Windows,null,null,null,null,pInUse
+18497,shc-cms-zergw025,Laptop,Windows,Windows,null,null,null,null,pInUse
+18450,shc-dnd-win2016-dev05,Laptop,Windows,Windows,null,null,null,null,pInUse
+18481,shc-itom-sharepointsrv01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18463,shc-oo-win2016-qa01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18444,pcoe-smax-win2016-probe05,Laptop,Windows,Windows,null,null,null,null,pInUse
+18443,shc-smax-bo-win2016-dev05,Laptop,Windows,Windows,null,null,null,null,pInUse
+18803,srv134,Laptop,Windows,Windows,null,null,null,null,pInUse
+18565,pcoe-cms-win2016-qa06,Laptop,Windows,Windows,null,null,null,null,pInUse
+18802,srv478,Laptop,Windows,Windows,null,null,null,null,pInUse
+18801,srv234,Laptop,Windows,Windows,null,null,null,null,pInUse
+18563,shc-smax-bo-win2016-qa01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18464,shc-cms-win2016-dev03,Laptop,Windows,Windows,null,null,null,null,pInUse
+18436,shc-cgro-win2016-qa 01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18559,vmware-esx-0-vcenter01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18437,shc-smax-win2012r2-qa01,Laptop,Windows,Windows,null,null,null,null,pInUse
+18452,pcoe-cms-win2019-dev04,Laptop,Windows,Windows,null,null,null,null,pInUse
+20321,blizzardud.hpadvantageinc.com,Laptop,Windows,Windows,null,null,null,null,pInUse
+20326,alm-aob,Laptop,Windows,Windows,null,null,null,null,pInUse
+18431,shc-oo-win2016-qa03,Laptop,Windows,Windows,null,null,null,null,pInUse
+18518,shc-oo-win2019-dev06,Laptop,Windows,Windows,null,null,null,null,pInUse
